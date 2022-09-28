@@ -5,4 +5,5 @@ Java dilinde kullanıcıdan alınan n değerine göre aşağıdaki kurala uyan d
 
 ### Örnek:
 **N Sayısı :** 16
+
 **Çıktısı :** 16 11 6 1 -4 1 6 11 16 
